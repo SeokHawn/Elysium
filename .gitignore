@@ -6,3 +6,5 @@ examples/
 img_rotation/
 rotation/
 data.csv
+test.py
+learning_machine.py
